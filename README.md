@@ -65,7 +65,7 @@ Problem ➔ Understand ➔ Design ➔ Build ➔ Test ➔ Deploy ➔ Improve
 ```
 
 - 💡 **What I do**: Develop resilient full-stack web platforms, geospatial analytics engines, and AI-assisted tooling.
-- 🎯 **DSA & Systems**: Systematically practicing algorithms and data structures in C++ and Python to build optimal, memory-conscious solutions.
+- 🎯 **DSA & Systems**: Systematically practicing algorithms and data structures in Python to build optimal, memory-conscious solutions.
 - ☁️ **Cloud Learning**: Actively exploring AWS services (EC2, S3, Lambda, ALB, IAM) and preparing for cloud community and builder initiatives.
 - 🧪 **Engineering Rigor**: Writing test suites (90+ backend tests in production projects), adhering to modular clean-architecture patterns, and containerizing environments.
 
@@ -78,7 +78,6 @@ Problem ➔ Understand ➔ Design ➔ Build ➔ Test ➔ Deploy ➔ Improve
 ### Languages & Core Runtimes
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -373,7 +372,7 @@ Active Focus:
 
 ```yaml
 learning:
-  - Data Structures & Algorithms (C++, LeetCode)
+  - Data Structures & Algorithms (Python, LeetCode)
   - Software Architecture & Clean Code Patterns
   - System Design Fundamentals (Caching, Load Balancing, DB Normalization)
   - AWS Cloud Infrastructure (EC2, S3, Lambda, ALB, IAM)
